@@ -1,3 +1,29 @@
-.header {
+body {
   text-align: center;
 }
+
+h2 {
+  color: red;
+}
+
+h3 {
+color: blue;
+}
+
+h4 {
+  color: pink;
+}
+
+h5 {
+  color: green;
+}
+
+h6 {
+  color: orange;
+}
+
+p {
+  border: 1px solid black;
+}
+
+
