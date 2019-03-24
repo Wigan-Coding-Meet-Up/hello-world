@@ -22,6 +22,4 @@ All HTML5 pages are called <b>"Documents"</b> and are the building blocks for an
 
 ### Here are some more commonly used HTML5 Tags.   :heavy_exclamation_mark:
 
-```
-&#60;ol&#62;
-```
+The &#60;p&#62; tag is used to define a <b>Paragraph</b> in HTML.
