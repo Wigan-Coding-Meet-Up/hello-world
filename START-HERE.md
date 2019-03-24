@@ -32,3 +32,10 @@ The &#60;p&#62; tag is used to define a <b>Paragraph</b> in HTML. It looks like 
 
 Notice how we have an opening &#60;p&#62; and a closing &#60;/p&#62; tags. Most elements in HTML require opening and closing tag. The difference if you look closely, is a /.
 There are elements that don't require a closing tag, we will get to those later!
+
+___
+
+## The &#60;h&#62; tag
+The &#60;h&#62; tag is used to define a <b>Header</b> in HTML. It looks like this:
+
+&#60;h1&#62;Hello, I am a Header!&#60;/h1&#62;
