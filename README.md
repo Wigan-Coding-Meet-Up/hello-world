@@ -16,7 +16,7 @@ cd Desktop, mkdir projects
  Click the link and navigate to the "Fork" button toward's the top right of the screen. See img....
 ___
 
- ![](Images/Forking.png)
+ ![](Images/Forking1.png)
 
 * [hello-world](https://github.com/Wigan-Coding-Meet-Up/hello-world.git)
 
