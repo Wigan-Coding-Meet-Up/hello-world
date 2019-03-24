@@ -6,8 +6,7 @@ There are many different types of tags and elements HTML.
 
 Tags and elements in HTML are the building blocks of any website or application.
 
-HTML stands for
-
+### HTML stands for
 ```
 Hyper Text Markup Language
 ```
