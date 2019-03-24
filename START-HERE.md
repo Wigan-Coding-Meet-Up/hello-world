@@ -16,3 +16,6 @@ Hyper Text Markup Language
 You can read and research the history of HTML and it's previous versions here:
 
 :x: [A breif history of html](https://www.wired.com/1997/04/a-brief-history-of-html/)
+
+If we think of HTML5 being the skeleton of our website then we would not be far away with our presumption.
+All HTML5 pages are called "Documents" and are the building blocks for any website or application.
