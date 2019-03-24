@@ -14,4 +14,4 @@ ___
 
 You can read and research the history of HTML and it's previous versions here:
 
-[html](https://www.wired.com/1997/04/a-brief-history-of-html/)
+[A breif history of html](https://www.wired.com/1997/04/a-brief-history-of-html/)
