@@ -6,6 +6,8 @@ Hello World BoilerPlate Repo for Wigan Coding Meet Up. Explanitory purposes.
 
 Start by creating a new folder on your Desktop called <b>projects</b>
 
+In your Terminal
+
 ```
 cd Desktop, mkdir projects
 ```
