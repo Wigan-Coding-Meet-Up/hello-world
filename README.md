@@ -25,6 +25,9 @@ cd Desktop, mkdir projects
 * [Fork A Repo](https://help.github.com/en/articles/fork-a-repo)
 * [Cloning A Repository](https://help.github.com/en/articles/cloning-a-repository)
 
+Then clone the repository. Click the button and copy the link.
+
+ ![](Images/Cloning.png)
 
 
 ### Installing
