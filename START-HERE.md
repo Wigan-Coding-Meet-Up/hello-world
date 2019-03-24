@@ -8,7 +8,7 @@ Tags and elements in HTML are the building blocks of any website or application.
 
 ___
 
-### HTML stands for   :arrow_forward:
+### HTML stands for   :arrow_down:
 ```
 Hyper Text Markup Language
 ```
