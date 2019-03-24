@@ -12,7 +12,6 @@ ___
 ```
 Hyper Text Markup Language
 ```
-___
 
 You can read and research the history of HTML and it's previous versions here:
 
