@@ -22,9 +22,12 @@ All HTML5 pages are called <b>"Documents"</b> and are the building blocks for an
 
 ### Here are some more commonly used HTML5 Tags.   :heavy_exclamation_mark:
 
+#### Remember!
+Some elements in HTML are styled differently. This means some of them display "In-Line" and some of them display as "Block". We will get to what both these display styles mean when we start <b>CSS3</b>.
+
 The &#60;p&#62; tag is used to define a <b>Paragraph</b> in HTML. It looks like this:
 
 &#60;p&#62;Hello, I am a Paragraph!&#60;/p&#62;
 
-Notice how we have an opening &#60;p&#62; and a closing &#60;/p&#62; tags. Most elements in HTML require opening and closing tags. The difference if you look closely is a /.
+Notice how we have an opening &#60;p&#62; and a closing &#60;/p&#62; tags. Most elements in HTML require opening and closing tag. The difference if you look closely, is a /.
 There are elements that don't require a closing tag, we will get to those later!
