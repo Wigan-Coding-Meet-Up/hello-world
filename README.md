@@ -1,6 +1,6 @@
 # Hello World
 
-Hello World BoilerPlate Repo for Wigan Coding Meet Up. Explanitary purposes.
+Hello World BoilerPlate Repo for Wigan Coding Meet Up. Explanitory purposes.
 
 ## Getting Started
 
@@ -8,9 +8,16 @@ Hello World BoilerPlate Repo for Wigan Coding Meet Up. Explanitary purposes.
 
 * [hello-world](https://github.com/Wigan-Coding-Meet-Up/hello-world.git)
 
+ If you are un-aware how to Fork or Clone a repository at this point, then please read:
+
+* [Fork A Repo](https://help.github.com/en/articles/fork-a-repo)
+* [Cloning A Repository](https://help.github.com/en/articles/cloning-a-repository)
+
+
+
 ### Installing
 
-Navigate to the repo you have forked and cloned.
+In your terminal, navigate to the repository you have forked and cloned.
 
 ```
 CD Desktop, CD projects, CD hello-world
