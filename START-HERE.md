@@ -19,3 +19,5 @@ You can read and research the history of HTML and it's previous versions here:
 
 If we think of HTML5 being the skeleton of our website then we would not be far away with our presumption.
 All HTML5 pages are called <b>"Documents"</b> and are the building blocks for any website or application.
+
+### Here are some more commonly used HTML5 Tags.   :heavy_exclamation_mark:
