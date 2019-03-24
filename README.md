@@ -14,11 +14,11 @@ cd Desktop, mkdir projects
 
  Fork and Clone this repo into your projects folder on your Desktop.
  Click the link and navigate to the "Fork" button toward's the top right of the screen. See img....
-___
-
- ![](Images/Forking1.png)
 
 * [hello-world](https://github.com/Wigan-Coding-Meet-Up/hello-world.git)
+
+
+ ![](Images/Forking1.png)
 
  If you are un-aware how to Fork or Clone a repository at this point, then please read:
 
