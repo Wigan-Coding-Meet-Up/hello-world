@@ -4,7 +4,14 @@ Hello World BoilerPlate Repo for Wigan Coding Meet Up. Explanitory purposes.
 
 ## Getting Started
 
+Start by creating a new folder on your Desktop called <b>projects</b>
+
+```
+cd Desktop, mkdir projects
+```
+
  Fork and Clone this repo into your projects folder on your computer.
+ Click the link and navigate to the "Fork" button toward's the top right of the screen
 
 * [hello-world](https://github.com/Wigan-Coding-Meet-Up/hello-world.git)
 
