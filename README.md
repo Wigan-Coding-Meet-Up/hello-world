@@ -29,6 +29,12 @@ Then clone the repository. Click the button and copy the link.
 
  ![](Images/Cloning.png)
 
+ Then in your Terminal, navigate to your projects folder and clone down the repository.
+
+ ```
+ cd Desktop, git clone https://github.com/Wigan-Coding-Meet-Up/hello-world.git
+ ```
+
 
 ### Installing
 
