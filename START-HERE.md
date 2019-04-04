@@ -2,7 +2,7 @@
 
 In this section we will learn about the different types of HTML tags and elements, why we would use them and when?
 
-There are many different types of tags and elements HTML.
+There are many different types of tags and elements in HTML5 and they are one and the same.
 
 Tags and elements in HTML are the building blocks of any website or application.
 
