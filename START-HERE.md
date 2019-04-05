@@ -25,11 +25,23 @@ All HTML5 pages are called <b>"Documents"</b> and are the building blocks for an
 #### Remember!
 Some elements in HTML are styled differently. This means some of them display "In-Line" and some of them display as "Block". We will get to what both these display styles mean when we start <b>CSS3</b>.
 
+## The &#60;head&#62; tag   :arrow_down:
+The &#60;head&#62; tag is used to define the <b>meta data</b> in our HTML document. It looks like this:
+
+&#60;head&#62; &#60;/head&#62;
+
+In most cases, all other elements will go inside the body tags.
+Notice how we have an opening &#60;head&#62; and a closing &#60;/head&#62; tags. Most elements in HTML require opening and closing tag. The difference if you look closely, is a /.
+There are elements that don't require a closing tag, we will get to those later!
+
+___
+
 ## The &#60;body&#62; tag   :arrow_down:
 The &#60;body&#62; tag is used to define the <b>main</b> content in HTML document. It looks like this:
 
-&#60;body&#62;Hello, I am the body!&#60;/body&#62;
+&#60;body&#62; &#60;/body&#62;
 
+In most cases, all other elements will go inside the body tags.
 Notice how we have an opening &#60;body&#62; and a closing &#60;/body&#62; tags. Most elements in HTML require opening and closing tag. The difference if you look closely, is a /.
 There are elements that don't require a closing tag, we will get to those later!
 
