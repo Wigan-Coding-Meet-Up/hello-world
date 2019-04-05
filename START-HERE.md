@@ -47,6 +47,14 @@ There are elements that don't require a closing tag, we will get to those later!
 
 ___
 
+## The &#60;h&#62; tag   :arrow_down:
+The &#60;h&#62; tag is used to define a <b>Header</b> in HTML. It looks like this:
+
+&#60;h1&#62;Hello, I am a Header!&#60;/h1&#62;
+
+The <b>Header</b> tag is a very descriptive tag. There are 6 header tags in total. They range from &#60;h1&#62; to a &#60;h6&#62;. The size of the text get's smaller the higher the h number goes. So a &#60;h1&#62; tag is the largest font-size and the &#60;h6&#62; tag has the smallest font-size.
+
+___
 
 ## The &#60;p&#62; tag   :arrow_down:
 The &#60;p&#62; tag is used to define a <b>Paragraph</b> in HTML. It looks like this:
@@ -58,9 +66,3 @@ There are elements that don't require a closing tag, we will get to those later!
 
 ___
 
-## The &#60;h&#62; tag   :arrow_down:
-The &#60;h&#62; tag is used to define a <b>Header</b> in HTML. It looks like this:
-
-&#60;h1&#62;Hello, I am a Header!&#60;/h1&#62;
-
-The <b>Header</b> tag is a very descriptive tag. There are 6 header tags in total. They range from &#60;h1&#62; to a &#60;h6&#62;. The size of the text get's smaller the higher the h number goes. So a &#60;h1&#62; tag is the largest font-size and the &#60;h6&#62; tag has the smallest font-size.
