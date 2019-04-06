@@ -12,7 +12,7 @@ In your Terminal
 cd Desktop, mkdir projects
 ```
 
- Fork and Clone this repo into your projects folder on your Desktop.
+ Fork and Clone this repository into your projects folder on your Desktop.
  Click the link and navigate to the "Fork" button toward's the top right of the screen. See img....
 
 * [hello-world](https://github.com/Wigan-Coding-Meet-Up/hello-world.git)
