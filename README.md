@@ -1,10 +1,10 @@
 # Hello World
 
-Hello World BoilerPlate Repo for Wigan Coding Meet Up. Explanitory purposes.
+Hello World BoilerPlate Repo for Wigan Coding Meet Up. Project setup. Once you have completed this project setup then please move onto the <b>STARTHERE.md</b> file in the repository github page.
 
 ## Getting Started
 
-Start by creating a new folder on your Desktop called <b>projects</b>
+Start by creating a new folder on your Desktop called <b>projects</b>. If you already done this then move onto the next step, fork and clone.
 
 In your Terminal
 
