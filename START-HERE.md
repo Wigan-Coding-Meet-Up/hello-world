@@ -35,7 +35,7 @@ This element goes above the &#60;body&#62; element and contains language informa
 ### Typical use case
 
 ```
-&#60;head&#62;
+<head>
 
 &#60;title&#62;Welcome to Wigan Code Meet-Up &#60;/title&#62;
 
