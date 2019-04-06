@@ -28,7 +28,7 @@ ___
 
 ## Typical HTML5 Element structure
 
-Simple element structure...
+Simple element structure... notice how we have an opening and a closing tag? Not <b>ALL</b> html5 elements require an opening and a closing tag. We will get to those shortly.
 ```
 <elementName> </elementName>
 ```
@@ -240,6 +240,13 @@ What's that I can see? A &#60;!DOCTYPE html&#62; element? Other elements we havn
 
 * Learn more about HTML5 &#60;html&#62; element here:
 [HTML5 html element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
+
+* Learn more about HTML5 &#60;br&#62; element here:
+[HTML5 br element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br)
+
+* Learn more about HTML5 &#60;hr&#62; element here:
+[HTML5 hr element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
+
 
 # Challenge Time! :white_check_mark:
 
