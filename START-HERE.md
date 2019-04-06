@@ -55,6 +55,42 @@ This element goes above the &#60;body&#62; element and contains language informa
 
 ___
 
+## The &#60;title&#62; element   :arrow_down:
+The &#60;title&#62; element is used to define the <b>Title</b> in our HTML document. It looks like this:
+
+&#60;title&#62; &#60;/title&#62;
+
+This element goes inside the &#60;head&#62; element and contains the title of our webpage/website. This allows our browser to read and display content accordingly.
+
+### Typical use case
+
+```
+<head>
+
+<title>Welcome to Wigan Code Meet-Up </title>
+
+ </head>
+ 
+ ```
+
+ This will display the title of the Website in the browsers tab! See the image for an example!
+
+ ![](Images/title.PNG)
+
+
+
+* More information on <b>meta data</b> can be found here:
+
+
+:x: [HTML Meta Data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+
+
+* Read more about the &#60;head&#62; &#60;/head&#62; element here:
+
+:x: [HTML Head Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
+
+___
+
 ## The &#60;body&#62; element   :arrow_down:
 The &#60;body&#62; element is used to define the <b>main</b> content in HTML document. It looks like this:
 
