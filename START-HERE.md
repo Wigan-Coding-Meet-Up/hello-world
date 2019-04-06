@@ -194,6 +194,35 @@ ___
 
 In HTML5 there is a certain structure we <b>MUST</b> adhered to when writting our code. This structure is commonly used in most web browsers. 
 
-### Check here for a screenshot of a default hello-world HTML5 Boilerplate.
+### Check here for a default hello-world HTML5 Boilerplate.
 
-![](Images/html5boilerplate.png)
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="main.css">
+  <title>Hello Wigan Coding Meet Up!</title>
+</head>
+
+
+
+
+<body>
+  <h1 class="header">Hello World!</h1>
+  <br>
+  <h1>Hello. I am a H1</h1>
+  <h2> I am a H2</h2>
+
+
+  <hr>
+  <br><br>
+
+
+</body>
+
+</html>
+```
