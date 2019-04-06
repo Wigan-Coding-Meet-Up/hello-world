@@ -118,8 +118,18 @@ The &#60;body&#62; element is used to define the <b>main</b> content in HTML doc
 &#60;body&#62; &#60;/body&#62;
 
 In most cases, all other elements will go inside the body tags.
-Notice how we have an opening &#60;body&#62; and a closing &#60;/body&#62; tags. Most elements in HTML require opening and closing tag. The difference if you look closely, is a /.
-There are elements that don't require a closing tag, we will get to those later!
+This element contains the main content of our website. Semantically this is the <b>Body</b> of the website. The &#60;head&#62; and &#60;html&#62; elements do not go in the &#60;body&#62; element. We will look into this in more detaio further on.
+
+### Typical use case
+
+```
+<body>
+
+<h1>Hello Wigan Coding Meet-Up!</h1>
+
+ </body>
+ 
+ ```
 
 * Read more about the &#60;body&#62; &#60;/body&#62; element here:
 
