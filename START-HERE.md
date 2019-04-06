@@ -26,7 +26,7 @@ All HTML5 pages are called <b>"Documents"</b> and are the building blocks for an
 Some elements in HTML are styled differently. This means some of them display "In-Line" and some of them display as "Block". We will get to what both these display styles mean when we start <b>CSS3</b>.
 
 ## The &#60;head&#62; element   :arrow_down:
-The &#60;head&#62; tag is used to define the <b>meta data</b> in our HTML document. It looks like this:
+The &#60;head&#62; element is used to define the <b>meta data</b> in our HTML document. It looks like this:
 
 &#60;head&#62; &#60;/head&#62;
 
@@ -45,7 +45,7 @@ This element goes above the &#60;body&#62; element and contains language informa
 ___
 
 ## The &#60;body&#62; element   :arrow_down:
-The &#60;body&#62; tag is used to define the <b>main</b> content in HTML document. It looks like this:
+The &#60;body&#62; element is used to define the <b>main</b> content in HTML document. It looks like this:
 
 &#60;body&#62; &#60;/body&#62;
 
@@ -61,16 +61,16 @@ There are elements that don't require a closing tag, we will get to those later!
 ___
 
 ## The &#60;h&#62; element   :arrow_down:
-The &#60;h&#62; tag is used to define a <b>Header</b> in HTML. It looks like this:
+The &#60;h&#62; element is used to define a <b>Header</b> in HTML. It looks like this:
 
 &#60;h1&#62;Hello, I am a Header!&#60;/h1&#62;
 
-The <b>Header</b> tag is a very descriptive tag. There are 6 header tags in total. They range from &#60;h1&#62; to a &#60;h6&#62;. The size of the text get's smaller the higher the h number goes. So a &#60;h1&#62; tag is the largest font-size and the &#60;h6&#62; tag has the smallest font-size.
+The <b>Header</b> element is a very descriptive tag. There are 6 header tags in total. They range from &#60;h1&#62; to a &#60;h6&#62;. The size of the text get's smaller the higher the h number goes. So a &#60;h1&#62; tag is the largest font-size and the &#60;h6&#62; tag has the smallest font-size.
 
 ___
 
 ## The &#60;p&#62; element   :arrow_down:
-The &#60;p&#62; tag is used to define a <b>Paragraph</b> in HTML. It looks like this:
+The &#60;p&#62; element is used to define a <b>Paragraph</b> in HTML. It looks like this:
 
 &#60;p&#62;Hello, I am a Paragraph!&#60;/p&#62;
 
