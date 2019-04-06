@@ -30,6 +30,8 @@ The &#60;head&#62; tag is used to define the <b>meta data</b> in our HTML docume
 
 &#60;head&#62; &#60;/head&#62;
 
+This element goes above the &#60;body&#62; element and contains language information and font type information. This allows our browser to read and display content accordingly.
+
 * More information on <b>meta data</b> can be found here:
 
 
