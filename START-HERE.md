@@ -240,3 +240,14 @@ What's that I can see? A &#60;!DOCTYPE html&#62; element? Other elements we havn
 
 * Learn more about HTML5 &#60;html&#62; element here:
 [HTML5 html element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
+
+# Challenge Time! :white_check_mark:
+
+Using what you have learned from the above resources, can you say yes to the following?
+
+* Can you fork and clone this repository to your <b>projects</b> folder?
+* Can you open the <b>index.hello-world</b> file in your browser?
+* Can you open up the directory in your code editor?
+* Can you change/add other html5 elements with some content inside?
+* Can you <b>add</b>, <b>commit</b> and <b>push</b> your changes to GitHub?
+
