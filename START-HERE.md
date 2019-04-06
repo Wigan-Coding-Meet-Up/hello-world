@@ -149,6 +149,12 @@ The <b>Header</b> element is a very descriptive tag. There are 6 header tags in 
 
 ```
 <h1>Hello Wigan Coding Meet-Up!</h1> 
+<h2>Hello Wigan Coding Meet-Up!</h2> 
+<h3>Hello Wigan Coding Meet-Up!</h3> 
+<h4>Hello Wigan Coding Meet-Up!</h4> 
+<h5>Hello Wigan Coding Meet-Up!</h5> 
+<h6>Hello Wigan Coding Meet-Up!</h6> 
+
  ```
 
 * Read more about the H elements here:
