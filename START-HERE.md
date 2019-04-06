@@ -13,12 +13,16 @@ ___
 Hyper Text Mark-Up Language
 ```
 
-You can read and research the history of HTML and it's previous versions here:
+* You can read and research the history of HTML and it's previous versions here:
 
 :x: [A breif history of html](https://www.wired.com/1997/04/a-brief-history-of-html/)
 
 If we think of HTML5 being the skeleton of our website then we would not be far away with our presumption.
-All HTML5 pages are called <b>"Documents"</b> and are the building blocks for any website or application.
+All HTML5 pages are called <b>"Documents"</b> and are the building blocks for any website or application. HTML <b>"Documents"</b> are usually written <b>"Semantically"</b> which means each element has a specific use case for its purpose.
+
+* Read more about Semantic HTML here:
+
+:x: [Semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
 
 ### Here are some more commonly used HTML5 Elements.   :heavy_exclamation_mark:
 
