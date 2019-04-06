@@ -67,7 +67,7 @@ This element goes inside the &#60;head&#62; element and contains the title of ou
 ```
 <head>
 
-<title>Welcome to Wigan Code Meet-Up </title>
+<title>Hello Wigan Code Meet-Up </title>
 
  </head>
  
