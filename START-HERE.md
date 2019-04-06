@@ -57,7 +57,7 @@ This element goes above the &#60;body&#62; element and contains language informa
 ```
 <head>
 
-<title>Hello Wigan Coding Meet-Up!</title>
+<title>Hello World</title>
 
  </head>
  
@@ -87,7 +87,7 @@ This element goes inside the &#60;head&#62; element and contains the title of ou
 ```
 <head>
 
-<title>Hello Wigan Coding Meet-Up!</title>
+<title>Hello World</title>
 
  </head>
  
@@ -125,7 +125,7 @@ This element contains the main content of our website. Semantically this is the 
 ```
 <body>
 
-<h1>Hello Wigan Coding Meet-Up!</h1>
+<h1>Hello World</h1>
 
  </body>
  
@@ -177,7 +177,7 @@ There are elements that don't require a closing tag, we will get to those later!
 <body>
 
 <p>
-Hello Wigan Coding Meet-Up! Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Hello World! Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 </p>
 
  </body>
@@ -190,4 +190,10 @@ Hello Wigan Coding Meet-Up! Lorem Ipsum is simply dummy text of the printing and
 
 ___
 
+## A HTML5 Boilerplate
 
+In HTML5 there is a certain structure we <b>MUST</b> adhered to when writting our code. This structure is commonly used in most web browsers. 
+
+### Check here for a screenshot of a default hello-world HTML5 Boilerplate.
+
+![](Images/html5boilerplate.png)
