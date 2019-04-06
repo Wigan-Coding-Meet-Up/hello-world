@@ -43,6 +43,8 @@ Lets try using the &#60;html&#62; element.
 #### Remember!
 Some elements in HTML are styled differently. This means some of them display "In-Line" and some of them display as "Block". We will get to what both these display styles mean when we start <b>CSS3</b>.
 
+___
+
 ## The &#60;head&#62; element   :arrow_down:
 The &#60;head&#62; element is used to define the <b>meta data</b> in our HTML document. It looks like this:
 
