@@ -96,7 +96,7 @@ This element goes inside the &#60;head&#62; element and contains the title of ou
  ### Check here for screenshots and help
 
  ![](Images/title.png)
-___
+
 
 * More information on <b>meta data</b> can be found here:
 
