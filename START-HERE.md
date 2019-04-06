@@ -10,7 +10,7 @@ ___
 
 ### HTML stands for   :arrow_down:
 ```
-Hyper Text Markup Language
+Hyper Text Mark-up Language
 ```
 
 You can read and research the history of HTML and it's previous versions here:
