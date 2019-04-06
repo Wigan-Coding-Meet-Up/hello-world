@@ -171,7 +171,22 @@ The &#60;p&#62; element is used to define a <b>Paragraph</b> in HTML. It looks l
 Notice how we have an opening &#60;p&#62; and a closing &#60;/p&#62; tags. Most elements in HTML require opening and closing tags. The difference if you look closely, is a /.
 There are elements that don't require a closing tag, we will get to those later!
 
-* Read more about 
+### Typical use case
+
+```
+<body>
+
+<p>
+Hello Wigan Coding Meet-Up! Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+</p>
+
+ </body>
+ 
+ ```
+
+* Read more about the p element here:
+
+:x: [HTML p Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
 
 ___
 
