@@ -69,7 +69,7 @@ The <b>Header</b> elementopen he   is a very descriptive tag. There are 6 header
 
 * Read more about the H elements here:
 
-[HTML H Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+:x: [HTML H Elements (Header)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
 ___
 
