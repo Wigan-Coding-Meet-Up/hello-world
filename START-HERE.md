@@ -28,6 +28,12 @@ ___
 
 ## Typical HTML5 Element structure
 
+Simple element structure...
+```
+<elementName> </elementName>
+```
+Lets try using the &#60;html&#62; element.
+
 ```
 <html> __content goes in here__  </html>
 ```
