@@ -32,6 +32,17 @@ The &#60;head&#62; element is used to define the <b>meta data</b> in our HTML do
 
 This element goes above the &#60;body&#62; element and contains language information and font type information. This allows our browser to read and display content accordingly.
 
+### Typical use case
+
+```
+&#60;head&#62;
+
+&#60;title&#62;Welcome to Wigan Code Meet-Up &#60;/title&#62;
+
+ &#60;/head&#62;
+ 
+ ```
+
 * More information on <b>meta data</b> can be found here:
 
 
@@ -63,7 +74,7 @@ ___
 ## The &#60;h&#62; element   :arrow_down:
 The &#60;h&#62; element is used to define a <b>Header</b> in HTML. It looks like this:
 
-&#60;h1&#62;Hello, I am a Header!&#60;/h1&#62;
+&#60;h1&#62;&#60;/h1&#62;
 
 The <b>Header</b> elementopen he   is a very descriptive tag. There are 6 header tags in total. They range from &#60;h1&#62; to a &#60;h6&#62;. The size of the text get's smaller the higher the h number goes. So a &#60;h1&#62; tag is the largest font-size and the &#60;h6&#62; tag has the smallest font-size.
 
@@ -76,7 +87,7 @@ ___
 ## The &#60;p&#62; element   :arrow_down:
 The &#60;p&#62; element is used to define a <b>Paragraph</b> in HTML. It looks like this:
 
-&#60;p&#62;Hello, I am a Paragraph!&#60;/p&#62;
+&#60;p&#62;&#60;/p&#62;
 
 Notice how we have an opening &#60;p&#62; and a closing &#60;/p&#62; tags. Most elements in HTML require opening and closing tags. The difference if you look closely, is a /.
 There are elements that don't require a closing tag, we will get to those later!
