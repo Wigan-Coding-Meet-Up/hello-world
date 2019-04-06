@@ -32,7 +32,7 @@ The &#60;head&#62; tag is used to define the <b>meta data</b> in our HTML docume
 
 More information on <b>meta data</b> can be found here:
 
-[HTML Meta Data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+:x: [HTML Meta Data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
 In most cases, all other elements will go inside the body tags.
 Notice how we have an opening &#60;head&#62; and a closing &#60;/head&#62; tags. Most elements in HTML require opening and closing tag. The difference if you look closely, is a /.
