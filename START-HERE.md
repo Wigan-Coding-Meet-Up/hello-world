@@ -143,7 +143,7 @@ The &#60;h&#62; element is used to define a <b>Header</b> in HTML. It looks like
 
 &#60;h1&#62;&#60;/h1&#62;
 
-The <b>Header</b> elementopen he   is a very descriptive tag. There are 6 header tags in total. They range from &#60;h1&#62; to a &#60;h6&#62;. The size of the text get's smaller the higher the h number goes. So a &#60;h1&#62; tag is the largest font-size and the &#60;h6&#62; tag has the smallest font-size.
+The <b>Header</b> element is a very descriptive tag. There are 6 header tags in total. They range from &#60;h1&#62; to a &#60;h6&#62;. The size of the text get's smaller the higher the h number goes. So a &#60;h1&#62; tag is the largest font-size and the &#60;h6&#62; tag has the smallest font-size.
 
 ### Typical use case
 
