@@ -65,7 +65,11 @@ The &#60;h&#62; element is used to define a <b>Header</b> in HTML. It looks like
 
 &#60;h1&#62;Hello, I am a Header!&#60;/h1&#62;
 
-The <b>Header</b> element is a very descriptive tag. There are 6 header tags in total. They range from &#60;h1&#62; to a &#60;h6&#62;. The size of the text get's smaller the higher the h number goes. So a &#60;h1&#62; tag is the largest font-size and the &#60;h6&#62; tag has the smallest font-size.
+The <b>Header</b> elementopen he   is a very descriptive tag. There are 6 header tags in total. They range from &#60;h1&#62; to a &#60;h6&#62;. The size of the text get's smaller the higher the h number goes. So a &#60;h1&#62; tag is the largest font-size and the &#60;h6&#62; tag has the smallest font-size.
+
+* Read more about the H elements here:
+
+[HTML H Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
 ___
 
@@ -74,8 +78,11 @@ The &#60;p&#62; element is used to define a <b>Paragraph</b> in HTML. It looks l
 
 &#60;p&#62;Hello, I am a Paragraph!&#60;/p&#62;
 
-Notice how we have an opening &#60;p&#62; and a closing &#60;/p&#62; tags. Most elements in HTML require opening and closing tag. The difference if you look closely, is a /.
+Notice how we have an opening &#60;p&#62; and a closing &#60;/p&#62; tags. Most elements in HTML require opening and closing tags. The difference if you look closely, is a /.
 There are elements that don't require a closing tag, we will get to those later!
 
+* Read more about 
+
 ___
+
 
