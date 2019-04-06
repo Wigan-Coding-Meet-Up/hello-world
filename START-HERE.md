@@ -26,6 +26,12 @@ All HTML5 pages are called <b>"Documents"</b> and are the building blocks for an
 
 ___
 
+## Typical HTML5 Element structure
+
+```
+<html> __content goes in here__  </html>
+```
+
 ### Here are some more commonly used HTML5 Elements.   :heavy_exclamation_mark:
 
 #### Remember!
