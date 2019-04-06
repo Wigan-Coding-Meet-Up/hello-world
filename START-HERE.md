@@ -226,3 +226,17 @@ In HTML5 there is a certain structure we <b>MUST</b> adhered to when writting ou
 
 </html>
 ```
+
+What's that i can see? A &#60;!DOCTYPE html&#62; element? Other elements we havn't talked about yet? Time for some more reading!
+
+* Learn more about HTML DOCTYPE here:
+[HTML5 DOCTYPE](https://developer.mozilla.org/en-US/docs/Glossary/Doctype)
+
+* Learn more about HTML5 &#60;meta&#62; element here:
+[HTML5 meta element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta)
+
+* Learn more about HTML5 &#60;link&#62; element here:
+[HTML5 link element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)
+
+* Learn more about HTML5 &#60;html&#62; element here:
+[HTML5 html element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
