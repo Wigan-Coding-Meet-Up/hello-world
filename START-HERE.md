@@ -10,7 +10,7 @@ ___
 
 ### HTML stands for   :arrow_down:
 ```
-Hyper Text Mark-up Language
+Hyper Text Mark-Up Language
 ```
 
 You can read and research the history of HTML and it's previous versions here:
@@ -37,7 +37,7 @@ This element goes above the &#60;body&#62; element and contains language informa
 ```
 <head>
 
-<title>Welcome to Wigan Code Meet-Up </title>
+<title>Hello Wigan Coding Meet-Up!</title>
 
  </head>
  
