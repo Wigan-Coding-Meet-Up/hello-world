@@ -37,9 +37,9 @@ This element goes above the &#60;body&#62; element and contains language informa
 ```
 <head>
 
-&#60;title&#62;Welcome to Wigan Code Meet-Up &#60;/title&#62;
+<title>Welcome to Wigan Code Meet-Up </title>
 
- &#60;/head&#62;
+ </head>
  
  ```
 
