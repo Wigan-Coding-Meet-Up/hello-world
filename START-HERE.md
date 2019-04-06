@@ -38,6 +38,10 @@ In most cases, all other elements will go inside the body tags.
 Notice how we have an opening &#60;head&#62; and a closing &#60;/head&#62; tags. Most elements in HTML require opening and closing tag. The difference if you look closely, is a /.
 There are elements that don't require a closing tag, we will get to those later!
 
+Read more about the &#60;head&#62; &#60;/head&#62; element here:
+
+:x: [HTML Head Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
+
 ___
 
 ## The &#60;body&#62; element   :arrow_down:
