@@ -13,12 +13,12 @@ ___
 Hyper Text Mark-Up Language
 ```
 
+If we think of HTML5 being the skeleton of our website then we would not be far away with our presumption.
+All HTML5 pages are called <b>"Documents"</b> and are the building blocks for any website or application. HTML <b>"Documents"</b> are usually written <b>"Semantically"</b> which means each element has a specific use case for its purpose. For example, If we want a main <b>Heading</b> for our website, we would use a &#60;h1&#62; element. As <b>semantically</b> this makes sense as a &#60;h1&#62; element is the largest header tag we can use. Semantically, you would only ever use <b>one</b> &#60;h1&#62; element per document. 
+
 * You can read and research the history of HTML and it's previous versions here:
 
 :x: [A breif history of html](https://www.wired.com/1997/04/a-brief-history-of-html/)
-
-If we think of HTML5 being the skeleton of our website then we would not be far away with our presumption.
-All HTML5 pages are called <b>"Documents"</b> and are the building blocks for any website or application. HTML <b>"Documents"</b> are usually written <b>"Semantically"</b> which means each element has a specific use case for its purpose. For example, If we want a main <b>Heading</b> for our website, we would use a &#60;h1&#62; element. As <b>semantically</b> this makes sense as a &#60;h1&#62; element is the largest header tag we can use. Semantically, you would only ever use <b>one</b> &#60;h1&#62; element per document. 
 
 * Read more about Semantic HTML here:
 
