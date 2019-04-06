@@ -30,7 +30,7 @@ The &#60;head&#62; tag is used to define the <b>meta data</b> in our HTML docume
 
 &#60;head&#62; &#60;/head&#62;
 
-More information on <b>meta data</b> can be found here:
+:heavy_exclamation_mark: More information on <b>meta data</b> can be found here:
 
 :x: [HTML Meta Data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
