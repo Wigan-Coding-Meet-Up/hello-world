@@ -28,7 +28,7 @@ Some elements in HTML are styled differently. This means some of them display "I
 ## The &#60;head&#62 element   :arrow_down:
 The &#60;head&#62; tag is used to define the <b>meta data</b> in our HTML document. It looks like this:
 
-&#60;head&#62; &#60;/head&#62;
+&#60;head&#62;  &#60;/head&#62;
 
 More information on <b>meta data</b> can be found here:
 
