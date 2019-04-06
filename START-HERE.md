@@ -73,11 +73,12 @@ This element goes inside the &#60;head&#62; element and contains the title of ou
  
  ```
 
- This will display the title of the Website in the browsers tab! See the image for an example!
+ This will display the title of the Website in the browsers tab! 
 
- ![](Images/title.PNG)
+ ### Check here for screenshots and help
 
-
+ ![](Images/title.png)
+___
 
 * More information on <b>meta data</b> can be found here:
 
