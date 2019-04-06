@@ -30,7 +30,7 @@ The &#60;head&#62; tag is used to define the <b>meta data</b> in our HTML docume
 
 &#60;head&#62; &#60;/head&#62;
 
-:heavy_exclamation_mark: More information on <b>meta data</b> can be found here:
+* More information on <b>meta data</b> can be found here:
 
 
 :x: [HTML Meta Data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
@@ -41,7 +41,7 @@ In most cases, all other elements will go inside the body tags.
 Notice how we have an opening &#60;head&#62; and a closing &#60;/head&#62; tags. Most elements in HTML require opening and closing tag. The difference if you look closely, is a /.
 There are elements that don't require a closing tag, we will get to those later!
 
-Read more about the &#60;head&#62; &#60;/head&#62; element here:
+* Read more about the &#60;head&#62; &#60;/head&#62; element here:
 
 :x: [HTML Head Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
 
