@@ -24,6 +24,8 @@ All HTML5 pages are called <b>"Documents"</b> and are the building blocks for an
 
 :x: [Semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
 
+___
+
 ### Here are some more commonly used HTML5 Elements.   :heavy_exclamation_mark:
 
 #### Remember!
