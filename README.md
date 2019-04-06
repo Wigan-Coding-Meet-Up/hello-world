@@ -1,6 +1,6 @@
 # Hello World
 
-Hello World BoilerPlate Repo for Wigan Coding Meet Up. Project setup. Once you have completed this project setup then please move onto the <b>STARTHERE.md</b> file in the repository github page.
+Hello World BoilerPlate Repo for Wigan Coding Meet Up. Project setup. Once you have completed this project setup then please move onto the <b>START-HERE.md</b> file in the repository github page.
 
 ## Getting Started
 
@@ -47,13 +47,13 @@ CD Desktop, CD projects, CD hello-world
 Then open the Index.html page in the browser.
 
 ```
-open index.html
+open hello-world.html
 ```
 
 For Windows users.
 
 ```
-start index.html
+start hello-world.html
 ```
 
 You should now see a blank page in the browser with a welcome message.
