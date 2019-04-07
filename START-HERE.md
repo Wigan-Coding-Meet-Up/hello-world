@@ -256,6 +256,6 @@ Using what you have learned from the above resources, can you say yes to the fol
 * Can you open the <b>index.hello-world</b> file in your browser?
 * Can you open up the directory in your code editor?
 * Can you change/add other html5 elements with some content inside?
-* Can you try to copy the index.html file and add in some of or the same elements?
+* Can you try to copy the index.html file and add in some the same elements?
 * Can you <b>add</b>, <b>commit</b> and <b>push</b> your changes to GitHub?
 
