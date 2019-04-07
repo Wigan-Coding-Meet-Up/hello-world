@@ -5,37 +5,9 @@ body {
 .header {
   margin-top: 50px;
   margin-bottom: 50px;
-
 }
 
-h2 {
-  color: red;
-}
 
-h3 {
-color: blue;
-}
 
-h4 {
-  color: pink;
-}
-
-h5 {
-  color: green;
-}
-
-h6 {
-  color: orange;
-  margin-bottom: 100px;
-}
-
-p {
-  border: 1px solid black;
-}
-
-/* Thick red border */
-hr {
-  border: 1px solid red;
-}
 
 
